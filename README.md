@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Interesting links about me:
+
+* [LinkedIn](https://linkedin.com/in/anemboca)
