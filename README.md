@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my path as DevOps & GitOps<br>👯 I’m looking to collaborate on any open source project<br>🌱 I’m currently learning about bug bounty
+🔭 Cybersecurity, Automation & DevOps Engineer
+👯 Always eager to collaborate in new projects
 
 
 ## 🌐 Socials:
