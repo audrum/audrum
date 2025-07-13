@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Andres Bolivar</h1>
 
 <p align="center">
-  Cybersecurity, Automation & DevOps Engineer based in Dubai 🇦🇪 <br>
+  Cybersecurity, Automation & DevOps Engineer <br>
   Passionate about privacy, secure systems, and building tech that improves lives.
 </p>
 
