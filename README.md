@@ -19,8 +19,8 @@
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anemboca)
+[![](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/anemboca)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logoColor=white&labelColor=000000)](https://bsky.app/profile/andresbolivar.bsky.social)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anemboca)
 
 ---
 
@@ -28,13 +28,14 @@
 
 **Languages & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-563d7c?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -58,7 +59,7 @@
 
 ## 📂 Featured Project
 
-### 🔐 [genpwd.sh](https://genpwd.sh)
+### 🔐 [genpwd.sh](genpwd.sh)
 A simple, fast, and customizable password generator
 
 ---
