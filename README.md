@@ -19,8 +19,8 @@
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anemboca)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/andresbolivarca)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/audrum)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logoColor=white&labelColor=000000)](https://bsky.app/profile/andresbolivar.bsky.social)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anemboca)
 
 ---
 
